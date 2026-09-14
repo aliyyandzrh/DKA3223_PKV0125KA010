@@ -260,7 +260,7 @@ Model AI tidak semestinya menghasilkan keputusan yang sempurna. Oleh itu, hasil 
 
 Saya mengakui bahawa projek ini dibangunkan untuk tujuan pembelajaran bagi kursus **DKA 3223 – AI untuk Computer Vision**. Sebarang kod, dataset, library atau model yang diperoleh daripada sumber luar diiktiraf dan digunakan dengan menghormati hak cipta serta lesen yang berkaitan.
 
-**Nama:** Nur Aliyya Nadzira Binti Abdul Rahim
+**Nama:** Nur Aliyya Nadzirah Binti Abdul Rahim
 **Program:** Teknologi Komputeran
 **Kelas:** 2D KPD
 **Pensyarah:** En. Nasrun Naim bin Tajudin
